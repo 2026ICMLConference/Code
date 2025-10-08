@@ -1,5 +1,5 @@
-# AAAI_code
-This repository contains the code associated with the paper submitted to the Conference and Workshop on Association for the Advancement of Artificial Intelligence (AAAI).
+# WWW_code
+This repository contains the code associated with the paper submitted to THE ACM WEB CONFERENCE (WWW).
 ## Data
 The raw experimental data is stored in the `M` and `ORLIB` folders. To prepare the input file required for the experiment, which adheres to the CL restrictions, the raw data can be processed using the provided interface in the `data_deal_FL.py` file. This script ensures that the raw data is converted into the appropriate format for subsequent experimental use. Similarly, for clustered datasets, "data_deal_clustering.py" is used for processing.
 ## License
